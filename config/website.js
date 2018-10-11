@@ -5,7 +5,7 @@ module.exports = {
 
   siteTitle: 'Gatsby Starter Portfolio', // Navigation and Site Title
   siteTitleAlt: '', // Alternative Site title for SEO
-  siteUrl: '', // Domain of your site. No trailing slash!
+  siteUrl: 'wonderful-easley.netlify.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo-1024.png', // Used for SEO and manifest
   siteDescription: '',
