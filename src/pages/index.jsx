@@ -7,6 +7,7 @@ import 'typeface-open-sans';
 
 import SEO from '../components/SEO';
 import SVG from '../components/SVG';
+import Contact from '../components/Contact';
 import ProjectCard from '../components/ProjectCard';
 import { rotate, UpDown, UpDownWide, waveAnimation } from '../styles/animations';
 import { hidden } from '../styles/utils';
@@ -285,6 +286,7 @@ const Index = () => (
       <Content speed={0.4} offset={4}>
         <Inner>
           <Title>Get in touch</Title>
+          <Contact />
           <ContactText>
             Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
             <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
